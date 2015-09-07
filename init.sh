@@ -4,6 +4,7 @@ bin_dir=/usr/local/bin
 uniq_name=my-feed-open
 open_script=${uniq_name}.sh
 open_app=${uniq_name}.desktop
+mime_dir=/home/tk/.local/share/mime/packages
 
 # check if we have root permission
 touch /root/test || exit
@@ -11,7 +12,7 @@ touch /root/test || exit
 echo "symbol link global command..."
 ln -sf "$script_dir/$open_script" $bin_dir/$open_script
 
-echo "writing /usr/share/applications/${open_app}"
+echo "adding ${open_app}..."
 
 cat << EOF | tee /usr/share/applications/${open_app}
 [Desktop Entry]
@@ -22,3 +23,17 @@ Exec=touch /tmp/abc
 Terminal=true
 EOF
 #echo ${open_script} %f > /tmp/abc
+
+echo "adding mime xml..."
+mkdir -p ${mime_dir} 
+cat << EOF | tee ${mime_dir}/application-x-foobar.xml 
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+<mime-type type="application/x-foobar">
+<comment>foo file</comment>
+<icon name="application-x-foobar"/>
+<glob-deleteall/>
+<glob pattern="*.tkfd"/>
+</mime-type>
+</mime-info>
+EOF
