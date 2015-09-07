@@ -53,3 +53,6 @@ echo update-desktop-database $app_dir
 update-desktop-database $app_dir
 echo update-mime-database $mime_dir
 update-mime-database $mime_dir
+
+colorpri "see if mime cache has it"
+cat ${app_dir}/mimeinfo.cache | grep --color feed 
