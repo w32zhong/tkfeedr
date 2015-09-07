@@ -4,7 +4,8 @@ bin_dir=/usr/local/bin
 uniq_name=my-feed-open
 open_script=${uniq_name}.sh
 app_dir=/home/tk/.local/share/applications
-mime_dir=/home/tk/.local/share/mime/packages
+mime_dir=/home/tk/.local/share/mime
+pkg_dir=$mime_dir/packages
 feed_ext=tkfd
 
 # check if we have root permission
@@ -19,9 +20,9 @@ colorpri() {
 colorpri "symbol link global command: $open_script"
 ln -sf "$script_dir/$open_script" $bin_dir/$open_script
 
-colorpri "adding mime file: ${mime_dir}/application-x-${uniq_name}.xml"
-mkdir -p ${mime_dir}
-cat << EOF | tee ${mime_dir}/application-x-${uniq_name}.xml 
+colorpri "adding mime file: ${pkg_dir}/application-x-${uniq_name}.xml"
+mkdir -p ${pkg_dir}
+cat << EOF | tee ${pkg_dir}/application-x-${uniq_name}.xml 
 <?xml version="1.0" encoding="UTF-8"?>
 <mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
 <mime-type type="application/x-${uniq_name}">
@@ -49,5 +50,7 @@ Categories=GNOME;GTK;Utility;TextEditor;
 EOF
 
 colorpri "update default app database..."
+echo update-desktop-database $app_dir
 update-desktop-database $app_dir
-update-mime-database $mime_dir/..
+echo update-mime-database $mime_dir
+update-mime-database $mime_dir
