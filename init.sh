@@ -10,11 +10,17 @@ feed_ext=tkfd
 # check if we have root permission
 touch /root/test || exit
 
-echo "symbol link global command..."
+colorpri() {
+	tput setaf 2
+	echo $1
+	tput sgr0
+}
+
+colorpri "symbol link global command: $open_script"
 ln -sf "$script_dir/$open_script" $bin_dir/$open_script
 
-echo "adding mime xml..."
-mkdir -p ${mime_dir} 
+colorpri "adding mime file: ${mime_dir}/application-x-${uniq_name}.xml"
+mkdir -p ${mime_dir}
 cat << EOF | tee ${mime_dir}/application-x-${uniq_name}.xml 
 <?xml version="1.0" encoding="UTF-8"?>
 <mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
@@ -27,7 +33,8 @@ cat << EOF | tee ${mime_dir}/application-x-${uniq_name}.xml
 </mime-info>
 EOF
 
-echo "adding application..."
+colorpri "adding application file: ${app_dir}/${uniq_name}.desktop"
+mkdir -p ${app_dir}
 cat << EOF | tee ${app_dir}/${uniq_name}.desktop
 [Desktop Entry]
 Encoding=UTF-8
@@ -41,6 +48,6 @@ MimeType=application/x-${uniq_name};
 Categories=GNOME;GTK;Utility;TextEditor;
 EOF
 
-echo "update default app database..."
+colorpri "update default app database..."
 update-desktop-database $app_dir
-update-mime-database $mime_dir
+update-mime-database $mime_dir/..
