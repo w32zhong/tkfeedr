@@ -3,8 +3,8 @@ script_dir="$(cd `dirname $0` && pwd)"
 bin_dir=/usr/local/bin
 uniq_name=my-feed-open
 open_script=${uniq_name}.sh
-app_dir=/home/tk/.local/share/applications
-mime_dir=/home/tk/.local/share/mime
+app_dir=/usr/share/applications
+mime_dir=/usr/share/mime
 pkg_dir=$mime_dir/packages
 feed_ext=tkfd
 
@@ -38,13 +38,12 @@ colorpri "adding application file: ${app_dir}/${uniq_name}.desktop"
 mkdir -p ${app_dir}
 cat << EOF | tee ${app_dir}/${uniq_name}.desktop
 [Desktop Entry]
-Encoding=UTF-8
-Type=Application
 Name=tk feed open
 Comment=
+Encoding=UTF-8
 Exec=${open_script} %f
-Terminal=true
-StartupNotify=true
+Icon=utilities-terminal
+Type=Application
 MimeType=application/x-${uniq_name};
 Categories=GNOME;GTK;Utility;TextEditor;
 EOF
