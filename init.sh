@@ -3,6 +3,7 @@ script_dir="$(cd `dirname $0` && pwd)"
 bin_dir=/usr/local/bin
 uniq_name=my-feed-open
 open_script=${uniq_name}.sh
+fetch_script=my-feed-fetch.py
 app_dir=/usr/share/applications
 mime_dir=/usr/share/mime
 pkg_dir=$mime_dir/packages
@@ -18,7 +19,8 @@ colorpri() {
 }
 
 colorpri "symbol link global command: $open_script"
-ln -sf "$script_dir/$open_script" $bin_dir/$open_script
+ln -sf "$script_dir/$open_script" "$bin_dir/$open_script"
+ln -sf "$script_dir/$fetch_script" "$bin_dir/$fetch_script"
 
 colorpri "adding mime file: ${pkg_dir}/application-x-${uniq_name}.xml"
 mkdir -p ${pkg_dir}
