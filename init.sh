@@ -46,6 +46,7 @@ Encoding=UTF-8
 Exec=${open_script} %f
 Icon=utilities-terminal
 Type=Application
+Terminal=true
 MimeType=application/x-${uniq_name};
 Categories=GNOME;GTK;Utility;TextEditor;
 EOF
