@@ -6,6 +6,7 @@ import sys
 import datetime 
 import glob
 import socket
+import time 
 
 ret_updated = "updated"
 ret_no_update = "no_update"
@@ -94,6 +95,7 @@ def parse_feed(feed_url):
 	else:
 		content_md5 = hashlib.md5('empty'.encode('utf-8')).hexdigest()
 		print('opps, one feed is unreachable!')
+		time.sleep(5)
 		return ret_str + ret_bad 
 
 	os.system('mkdir -p %s/timestamp' % cur_dir)
