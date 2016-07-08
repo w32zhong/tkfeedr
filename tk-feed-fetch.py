@@ -66,7 +66,7 @@ def save_feed(feed):
 		if hasattr(ent, 'description'):
 			ent_descrip = ent.description
 			
-		quick_save(path, str(i) + ' ' + valid_fname(ent_title), 
+		quick_save(path, str(i).zfill(3) + ' ' + valid_fname(ent_title), 
 		           ent_link + '\n' + ent_descrip)
 		i += 1
 
