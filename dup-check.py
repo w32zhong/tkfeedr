@@ -32,7 +32,7 @@ print("duplicate feed URLs:")
 print(dup_li)
 
 find = "find " + os.path.dirname(feed_list_path) + \
-       " -type f -name '*.list' | xargs grep --color "
+       " -type f -name '*.list' | xargs grep -n --color "
 
 for t in dup_li:
 	os.system(find + t[0])
