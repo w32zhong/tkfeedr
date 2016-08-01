@@ -1,7 +1,7 @@
 #!/bin/sh
 script_dir="$(cd `dirname $0` && pwd)"
 bin_dir=/usr/local/bin
-uniq_name=my-feed-open
+uniq_name=tk-feed-open
 open_script=${uniq_name}.sh
 fetch_script=tk-feed-fetch.py
 app_dir=/usr/share/applications
