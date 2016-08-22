@@ -1,4 +1,10 @@
 000 https://blog.jamespan.me/atom.xml
-http://blog.minidump.info/feed/
-https://stdstx.me/blog/rss.xml
-http://teahour.fm/feed.xml
+000 http://blog.minidump.info/feed/
+001 https://stdstx.me/blog/rss.xml
+000 http://teahour.fm/feed.xml
+000 http://kubicode.me/atom.xml
+000 http://wuchong.me/atom.xml
+000 http://quanru.github.io/atom.xml
+000 http://nlpnoob.com/feed
+000 https://sneezry.com/feed.xml
+000 http://lipan.me/feed.xml

@@ -3,13 +3,10 @@
 000 http://freemind.pluskid.org/rss.xml
 000 http://www.ruanyifeng.com/blog/atom.xml
 000 http://xiaoxia.org/feed/
-004 http://blog.kingsamchen.com/feed
 001 http://coolshell.cn/feed/
 001 http://mindhacks.cn/feed
-004 http://forestgump.me/atomic.xml
 000 http://www.matrix67.com/blog/feed.asp
-004 http://feeds.feedburner.com/Sneezry
-002 http://feeds.feedburner.com/tualatrix
+003 http://feeds.feedburner.com/tualatrix
 001 http://www.bunniestudios.com/blog/?feed=rss2
 001 http://dangerousprototypes.com/feed
 000 http://localhost-8080.com/feed/
