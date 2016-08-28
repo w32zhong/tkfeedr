@@ -1,6 +1,6 @@
 001 http://schock.net/feed/
 000 http://www.pixelstech.net/feed.xml
-006 http://wooyun.org/feeds/public
+007 http://wooyun.org/feeds/public
 003 http://feeds.feedburner.com/holman/
 005 http://blog.zhaojie.me/rss
 002 http://blog.yasker.org/feed
@@ -16,7 +16,7 @@
 003 http://cn.wsj.com/gb/rsstech.xml
 000 http://blog.donghao.org/feed/
 001 http://justjavac.com/atom.xml
-001 http://panthema.net/xmlfeed/weblog-rss20.xml
+002 http://panthema.net/xmlfeed/weblog-rss20.xml
 001 http://blog.kevmod.com/feed/
 003 http://feeds.feedburner.com/OnMakingWebThings?format=xml
 001 http://www.liupeng.com/?feed=rss2
@@ -32,10 +32,10 @@
 003 http://microcai.org/feed
 002 http://blog.e10t.net/rss/
 000 http://timothyqiu.com/feed/
-000 https://jackyyf.com/feed
+001 https://jackyyf.com/feed
 000 http://blog.dayanjia.com/atom.xml
 001 http://scturtle.me/atom.xml
-000 http://xiezhenye.com/feed
+001 http://xiezhenye.com/feed
 001 http://blog.farmostwood.net/feed
 001 http://zhiqiang.org/blog/feed
 000 http://www.smashingmagazine.com/feed/
@@ -155,7 +155,7 @@
 000 http://thorstenball.com/atom.xml
 000 http://36kr.com/feed
 001 http://binxian.chetui.org/?feed=rss2
-001 http://ycnian.org/blog/feed
+002 http://ycnian.org/blog/feed
 000 http://nullprogram.com/feed/
 001 https://filippo.io/atom.xml
 001 http://miao.hu/atom.xml
@@ -166,7 +166,7 @@
 000 http://imxylz.com/atom.xml
 000 http://www.fwolf.com/blog/feed
 001 https://www.mikeash.com/pyblog/rss.py
-001 http://yanyiwu.com/rss.xml
+002 http://yanyiwu.com/rss.xml
 000 http://fxck.it/rss
 001 http://studentdeng.github.io/atom.xml
 002 http://blog.mikemccandless.com/feeds/posts/default
@@ -184,7 +184,7 @@
 000 http://www.ramlinbird.com/feed/
 000 http://1mhz.me/atom.xml
 000 http://yutianx.info/atom.xml
-000 http://vawait.com/feed/
+001 http://vawait.com/feed/
 000 http://blog.jqian.net/feed
 000 http://feed.cnblogs.com/blog/u/210444/rss
 002 http://www.chaoniu.org/feed/
@@ -233,7 +233,7 @@
 001 http://davidad.github.io/atom.xml
 000 http://mirror.bjtu.edu.cn/ideal/feed/
 001 http://www.hoterran.info/feed
-000 http://www.pagefault.info/?feed=rss2
+001 http://www.pagefault.info/?feed=rss2
 000 http://xudifsd.org/blog/feed/
 000 http://yechengfu.com/feed.xml
 000 https://www.shuax.com/feed

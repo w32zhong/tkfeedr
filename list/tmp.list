@@ -1,6 +1,6 @@
-000 https://blog.jamespan.me/atom.xml
+001 https://blog.jamespan.me/atom.xml
 000 http://blog.minidump.info/feed/
-001 https://stdstx.me/blog/rss.xml
+002 https://stdstx.me/blog/rss.xml
 000 http://teahour.fm/feed.xml
 000 http://kubicode.me/atom.xml
 000 http://wuchong.me/atom.xml
@@ -8,7 +8,18 @@
 000 http://nlpnoob.com/feed
 000 https://sneezry.com/feed.xml
 000 http://lipan.me/feed.xml
-http://blog.lilydjwg.me/feed
-http://chenyufei.info/atom.xml
-https://www.librehat.com/feed/
-http://feeds.feedburner.com/xujiwei
+000 http://blog.lilydjwg.me/feed
+000 http://chenyufei.info/atom.xml
+000 https://www.librehat.com/feed/
+000 http://feeds.feedburner.com/xujiwei
+http://www.geekonomics10000.com/feed
+http://log.lain.li/atom.xml
+https://kouga.us/rss/
+http://jameszhan.github.io/feed.xml
+http://xiaohanyu.me/atom.xml
+http://blog.cee.moe/feed
+https://ky0n.xyz/atom.xml
+http://www.johnmyleswhite.com/feed/
+http://tomasalabes.me/blog/_site/feed.xml
+https://atupal.org/atom.xml
+http://liutos.github.io/rss.xml
