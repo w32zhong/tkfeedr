@@ -1,27 +1,32 @@
 001 https://blog.jamespan.me/atom.xml
 000 http://blog.minidump.info/feed/
-002 https://stdstx.me/blog/rss.xml
+005 https://stdstx.me/blog/rss.xml
 000 http://teahour.fm/feed.xml
 000 http://kubicode.me/atom.xml
 000 http://wuchong.me/atom.xml
-000 http://quanru.github.io/atom.xml
+001 http://quanru.github.io/atom.xml
 000 http://nlpnoob.com/feed
 000 https://sneezry.com/feed.xml
 000 http://lipan.me/feed.xml
 000 http://blog.lilydjwg.me/feed
 000 http://chenyufei.info/atom.xml
 000 https://www.librehat.com/feed/
-000 http://feeds.feedburner.com/xujiwei
-http://www.geekonomics10000.com/feed
-http://log.lain.li/atom.xml
-https://kouga.us/rss/
-http://jameszhan.github.io/feed.xml
-http://xiaohanyu.me/atom.xml
-http://blog.cee.moe/feed
-https://ky0n.xyz/atom.xml
-http://www.johnmyleswhite.com/feed/
-http://tomasalabes.me/blog/_site/feed.xml
-https://atupal.org/atom.xml
-http://liutos.github.io/rss.xml
-http://www.aneasystone.com/feed
-http://www.deeplearn.me/feed
+003 http://feeds.feedburner.com/xujiwei
+000 http://www.geekonomics10000.com/feed
+000 http://log.lain.li/atom.xml
+000 https://kouga.us/rss/
+001 http://jameszhan.github.io/feed.xml
+000 http://xiaohanyu.me/atom.xml
+000 http://blog.cee.moe/feed
+000 https://ky0n.xyz/atom.xml
+000 http://www.johnmyleswhite.com/feed/
+000 http://tomasalabes.me/blog/_site/feed.xml
+000 https://atupal.org/atom.xml
+001 http://liutos.github.io/rss.xml
+000 http://www.aneasystone.com/feed
+000 http://www.deeplearn.me/feed
+000 http://www.barretlee.com/rss2.xml
+000 http://numbbbbb.com/atom.xml
+002 https://www.phodal.com/blog/feeds/rss/
+000 https://intmainreturn0.com/feed/
+http://oldratlee.com/feed
