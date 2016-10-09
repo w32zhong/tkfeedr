@@ -1,12 +1,12 @@
 001 https://blog.jamespan.me/atom.xml
 000 http://blog.minidump.info/feed/
-006 https://stdstx.me/blog/rss.xml
+007 https://stdstx.me/blog/rss.xml
 000 http://teahour.fm/feed.xml
 000 http://kubicode.me/atom.xml
 000 http://wuchong.me/atom.xml
 001 http://quanru.github.io/atom.xml
 000 http://nlpnoob.com/feed
-000 https://sneezry.com/feed.xml
+001 https://sneezry.com/feed.xml
 000 http://lipan.me/feed.xml
 000 http://blog.lilydjwg.me/feed
 000 http://chenyufei.info/atom.xml
@@ -14,8 +14,8 @@
 003 http://feeds.feedburner.com/xujiwei
 000 http://www.geekonomics10000.com/feed
 000 http://log.lain.li/atom.xml
-000 https://kouga.us/rss/
-001 http://jameszhan.github.io/feed.xml
+001 https://kouga.us/rss/
+002 http://jameszhan.github.io/feed.xml
 000 http://xiaohanyu.me/atom.xml
 000 http://blog.cee.moe/feed
 000 https://ky0n.xyz/atom.xml
@@ -27,7 +27,11 @@
 000 http://www.deeplearn.me/feed
 000 http://www.barretlee.com/rss2.xml
 000 http://numbbbbb.com/atom.xml
-003 https://www.phodal.com/blog/feeds/rss/
+004 https://www.phodal.com/blog/feeds/rss/
 000 https://intmainreturn0.com/feed/
 000 http://oldratlee.com/feed
-http://blog.coderzh.com/feed.xml
+000 http://blog.coderzh.com/feed.xml
+000 http://blog.devtang.com/atom.xml
+000 http://gracelancy.com/atom.xml
+http://blog.just4fun.site/feeds/all.rss.xml
+http://linux323.tk/feed/

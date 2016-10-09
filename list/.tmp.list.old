@@ -1,6 +1,6 @@
 001 https://blog.jamespan.me/atom.xml
 000 http://blog.minidump.info/feed/
-005 https://stdstx.me/blog/rss.xml
+006 https://stdstx.me/blog/rss.xml
 000 http://teahour.fm/feed.xml
 000 http://kubicode.me/atom.xml
 000 http://wuchong.me/atom.xml
@@ -27,6 +27,9 @@
 000 http://www.deeplearn.me/feed
 000 http://www.barretlee.com/rss2.xml
 000 http://numbbbbb.com/atom.xml
-002 https://www.phodal.com/blog/feeds/rss/
+003 https://www.phodal.com/blog/feeds/rss/
 000 https://intmainreturn0.com/feed/
-http://oldratlee.com/feed
+000 http://oldratlee.com/feed
+http://blog.coderzh.com/feed.xml
+http://blog.devtang.com/atom.xml
+http://gracelancy.com/atom.xml

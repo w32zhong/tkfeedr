@@ -1,6 +1,6 @@
 001 http://schock.net/feed/
 000 http://www.pixelstech.net/feed.xml
-010 http://wooyun.org/feeds/public
+011 http://wooyun.org/feeds/public
 006 http://feeds.feedburner.com/holman/
 006 http://blog.zhaojie.me/rss
 002 http://blog.yasker.org/feed
@@ -44,7 +44,7 @@
 000 http://www.laruence.com/feed
 001 http://paulrouget.com/index.xml
 001 http://feed.ooxx.me
-003 https://www.csslayer.info/wordpress/feed/
+004 https://www.csslayer.info/wordpress/feed/
 002 http://diaorui.net/?feed=rss2
 000 http://tonyyet.com/feed
 001 https://chenghouwen.com/feed
@@ -55,14 +55,14 @@
 001 http://blog.ftofficer.com/feed
 000 http://junan.name/feed
 006 http://feeds2.feedburner.com/imterry
-002 http://xiaoxins.com/?feed=rss2
+003 http://xiaoxins.com/?feed=rss2
 000 http://blog.csdn.net/21cnbao/rss/list
 000 http://blog.sina.com.cn/rss/1407899802.xml
 001 http://vincent.bernat.im/en/blog/atom.xml
 003 http://www.thegatesnotes.com/rss
 001 http://www.bitcraze.se/feed/
 001 http://www.watch-life.net/feed
-001 http://brilliant.gd/feed
+002 http://brilliant.gd/feed
 006 http://feeds.feedburner.com/MyDecember
 000 http://twd2.me/index.php/feed
 001 http://blog.csdn.net/dndxhej/rss/list
@@ -122,7 +122,6 @@
 006 http://feeds.feedburner.com/lornajane
 001 http://www.blackglory.me/feed/
 005 http://www.searchtb.com/feed
-000 http://www.yangzhiping.com/feed.xml
 006 http://feeds.feedburner.com/hansliu
 001 http://ppanda.com/feed
 000 http://zhouyichu.com/atom.xml
@@ -130,7 +129,7 @@
 000 http://www.loyhome.com/feed/
 000 http://crescentmoon.info/atom.xml
 006 http://feeds.feedburner.com/adam8157
-003 https://miu.im/feed/
+004 https://miu.im/feed/
 000 http://jiruyi910387714.is-programmer.com/feed
 000 http://blog.ttionya.com/feed
 001 http://eli.thegreenplace.net/feeds/all.atom.xml
@@ -155,7 +154,7 @@
 001 http://thorstenball.com/atom.xml
 001 http://36kr.com/feed
 002 http://binxian.chetui.org/?feed=rss2
-005 http://ycnian.org/blog/feed
+006 http://ycnian.org/blog/feed
 001 http://nullprogram.com/feed/
 002 https://filippo.io/atom.xml
 002 http://miao.hu/atom.xml
@@ -247,16 +246,16 @@
 002 http://lvgm.cn/feed.xml
 001 http://www.renhl.com/feed.xml
 000 http://feed.cnblogs.com/blog/u/166017/rss
-001 http://blog.striveforfreedom.net/index.php/feed/
+002 http://blog.striveforfreedom.net/index.php/feed/
 001 http://boston.conman.org/bostondiaries.rss
 000 https://kura.io/feeds/atom.xml
 000 http://www.doraemonext.com/feed
 001 http://www.75team.com/rss.html
 000 http://taobaofed.org/atom.xml
 000 http://pinggod.com/atom.xml
-000 http://blog.i-ai.org/rss/
+001 http://blog.i-ai.org/rss/
 000 http://blog.smalldragonluo.com/atom.xml
-001 http://feed.williamlong.info/
+002 http://feed.williamlong.info/
 000 http://blog.daraw.cn/atom.xml
 001 http://notes.iissnan.com/atom.xml
 000 http://www.ahonn.me/atom.xml
@@ -269,5 +268,5 @@
 000 https://npes87184.github.io/feed.xml
 001 https://imququ.com/rss.html
 006 http://feeds.feedburner.com/kuoe0sdots
-000 http://zhiqiang.org/blog/feed
+001 http://zhiqiang.org/blog/feed
 000 http://blog.liwenxin.com/feed.xml
