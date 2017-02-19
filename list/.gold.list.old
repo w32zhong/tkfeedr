@@ -1,13 +1,13 @@
 001 http://armsword.com/atom.xml
 000 http://reverland.org/atom.xml
-000 http://freemind.pluskid.org/rss.xml
+001 http://freemind.pluskid.org/rss.xml
 000 http://www.ruanyifeng.com/blog/atom.xml
 000 http://xiaoxia.org/feed/
 001 http://coolshell.cn/feed/
 001 http://mindhacks.cn/feed
 000 http://www.matrix67.com/blog/feed.asp
-006 http://feeds.feedburner.com/tualatrix
-001 http://www.bunniestudios.com/blog/?feed=rss2
+008 http://feeds.feedburner.com/tualatrix
+002 http://www.bunniestudios.com/blog/?feed=rss2
 001 http://dangerousprototypes.com/feed
 000 http://localhost-8080.com/feed/
 000 http://www.gatesnotes.com/home/rss
