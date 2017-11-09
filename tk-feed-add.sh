@@ -17,10 +17,10 @@ url_id=`echo "${url}" | grep -Po '(?<=//).+?(?=/)'`
 force="$2"
 
 echo "Searching domain key: ${url_id}"
-grep "${url_id}" /home/tk/tksync/proj/tkfeedr/list/*.list
+grep "${url_id}" ~/tkfeedr/list/*.list
 if [ $? -eq 0 -a "$force" != "-f" ]; then
 	echo "exists."
 else
 	echo "not exists, adding..."
-	echo "${url}" >> /home/tk/tksync/proj/tkfeedr/list/tmp.list
+	echo "${url}" >> ~/tkfeedr/list/tmp.list
 fi
