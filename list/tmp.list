@@ -1,11 +1,11 @@
 001 https://blog.jamespan.me/atom.xml
 000 http://blog.minidump.info/feed/
-012 https://stdstx.me/blog/rss.xml
+013 https://stdstx.me/blog/rss.xml
 000 http://teahour.fm/feed.xml
 000 http://kubicode.me/atom.xml
 000 http://wuchong.me/atom.xml
-006 http://quanru.github.io/atom.xml
-005 http://nlpnoob.com/feed
+007 http://quanru.github.io/atom.xml
+006 http://nlpnoob.com/feed
 001 https://sneezry.com/feed.xml
 000 http://lipan.me/feed.xml
 000 http://blog.lilydjwg.me/feed
@@ -18,17 +18,17 @@
 003 http://jameszhan.github.io/feed.xml
 000 http://xiaohanyu.me/atom.xml
 000 http://blog.cee.moe/feed
-002 https://ky0n.xyz/atom.xml
+003 https://ky0n.xyz/atom.xml
 000 http://www.johnmyleswhite.com/feed/
-000 http://tomasalabes.me/blog/_site/feed.xml
+001 http://tomasalabes.me/blog/_site/feed.xml
 000 https://atupal.org/atom.xml
 002 http://liutos.github.io/rss.xml
 000 http://www.aneasystone.com/feed
 000 http://www.deeplearn.me/feed
 000 http://www.barretlee.com/rss2.xml
 000 http://numbbbbb.com/atom.xml
-009 https://www.phodal.com/blog/feeds/rss/
-000 https://intmainreturn0.com/feed/
+010 https://www.phodal.com/blog/feeds/rss/
+001 https://intmainreturn0.com/feed/
 000 http://oldratlee.com/feed
 000 http://blog.coderzh.com/feed.xml
 000 http://blog.devtang.com/atom.xml
@@ -38,9 +38,9 @@
 000 http://www.cppblog.com/Solstice/Rss.aspx
 000 http://www.isnowfy.com/feed/
 000 http://haipz.com/blog/feed/
-003 http://blog.kymjs.com/feed.xml
+004 http://blog.kymjs.com/feed.xml
 000 http://www.lanceyan.com/feed
-005 http://feed.ccvita.com/
+006 http://feed.ccvita.com/
 000 http://jerrypeng.me/atom.xml
 001 http://www.dozer.cc/feed.xml
 000 http://sunisdown.me/feeds/all.atom.xml
@@ -48,21 +48,21 @@
 000 http://zhuhaipeng.me/atom.xml
 000 http://blog.opskumu.com/feed.xml
 000 https://breeswish.org/blog/feed
-005 http://yujiangshui.com/atom.xml
+006 http://yujiangshui.com/atom.xml
 001 http://44670.org/index.php/feed/
 000 http://martincl2.me/feed
 000 https://nekoyu.cc/atom.xml
 000 https://www.caoqq.net/rss2.xml
 000 https://notes.cscao.com/atom.xml
-000 https://huntzhan.org/rss/
-000 http://www.lyhonk.com/rss/
+001 https://huntzhan.org/rss/
+001 http://www.lyhonk.com/rss/
 000 http://arondight.me/atom.xml
 000 https://www.wanglianghome.org/feed/
 000 http://www.netcan666.com/atom.xml
 000 http://www.qcyoung.com/atom.xml
-https://www.web-tinker.com/rss.xml
-http://www.senra.me/feed/
-http://orchidflower.oschina.io/atom.xml
-https://blog.justinwflory.com/feed/
-http://zhengyidong.me/feed/
-https://zx31415.wordpress.com/feed/
+000 https://www.web-tinker.com/rss.xml
+000 http://www.senra.me/feed/
+000 http://orchidflower.oschina.io/atom.xml
+000 https://blog.justinwflory.com/feed/
+001 http://zhengyidong.me/feed/
+000 https://zx31415.wordpress.com/feed/
