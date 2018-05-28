@@ -1,60 +1,60 @@
 001 https://blog.jamespan.me/atom.xml
 000 http://blog.minidump.info/feed/
-014 https://stdstx.me/blog/rss.xml
+017 https://stdstx.me/blog/rss.xml
 000 http://teahour.fm/feed.xml
 000 http://kubicode.me/atom.xml
 000 http://wuchong.me/atom.xml
-008 http://quanru.github.io/atom.xml
-007 http://nlpnoob.com/feed
+009 http://quanru.github.io/atom.xml
+010 http://nlpnoob.com/feed
 001 https://sneezry.com/feed.xml
-000 http://lipan.me/feed.xml
+001 http://lipan.me/feed.xml
 000 http://blog.lilydjwg.me/feed
-000 http://chenyufei.info/atom.xml
+002 http://chenyufei.info/atom.xml
 000 https://www.librehat.com/feed/
 005 http://feeds.feedburner.com/xujiwei
 000 http://www.geekonomics10000.com/feed
 000 http://log.lain.li/atom.xml
-005 https://kouga.us/rss/
+008 https://kouga.us/rss/
 003 http://jameszhan.github.io/feed.xml
 000 http://xiaohanyu.me/atom.xml
 000 http://blog.cee.moe/feed
-004 https://ky0n.xyz/atom.xml
+007 https://ky0n.xyz/atom.xml
 000 http://www.johnmyleswhite.com/feed/
-002 http://tomasalabes.me/blog/_site/feed.xml
+005 http://tomasalabes.me/blog/_site/feed.xml
 000 https://atupal.org/atom.xml
 002 http://liutos.github.io/rss.xml
 000 http://www.aneasystone.com/feed
 000 http://www.deeplearn.me/feed
 000 http://www.barretlee.com/rss2.xml
 000 http://numbbbbb.com/atom.xml
-011 https://www.phodal.com/blog/feeds/rss/
-002 https://intmainreturn0.com/feed/
+014 https://www.phodal.com/blog/feeds/rss/
+005 https://intmainreturn0.com/feed/
 000 http://oldratlee.com/feed
-000 http://blog.coderzh.com/feed.xml
+001 http://blog.coderzh.com/feed.xml
 000 http://blog.devtang.com/atom.xml
 000 http://gracelancy.com/atom.xml
 000 http://blog.just4fun.site/feeds/all.rss.xml
-001 http://linux323.tk/feed/
+004 http://linux323.tk/feed/
 000 http://www.cppblog.com/Solstice/Rss.aspx
 000 http://www.isnowfy.com/feed/
 000 http://haipz.com/blog/feed/
-005 http://blog.kymjs.com/feed.xml
-000 http://www.lanceyan.com/feed
-007 http://feed.ccvita.com/
-001 http://jerrypeng.me/atom.xml
+008 http://blog.kymjs.com/feed.xml
+002 http://www.lanceyan.com/feed
+010 http://feed.ccvita.com/
+004 http://jerrypeng.me/atom.xml
 001 http://www.dozer.cc/feed.xml
 000 http://sunisdown.me/feeds/all.atom.xml
 000 http://zhengkun.info/feed.atom
 000 http://zhuhaipeng.me/atom.xml
 000 http://blog.opskumu.com/feed.xml
 000 https://breeswish.org/blog/feed
-007 http://yujiangshui.com/atom.xml
+010 http://yujiangshui.com/atom.xml
 001 http://44670.org/index.php/feed/
 000 http://martincl2.me/feed
-001 https://nekoyu.cc/atom.xml
-001 https://www.caoqq.net/rss2.xml
+004 https://nekoyu.cc/atom.xml
+004 https://www.caoqq.net/rss2.xml
 000 https://notes.cscao.com/atom.xml
-002 https://huntzhan.org/rss/
+005 https://huntzhan.org/rss/
 001 http://www.lyhonk.com/rss/
 000 http://arondight.me/atom.xml
 001 https://www.wanglianghome.org/feed/
@@ -68,21 +68,25 @@
 000 https://zx31415.wordpress.com/feed/
 000 http://ibillxia.github.io/atom.xml
 000 http://qiankunli.github.io/pages/atom.xml
-http://www.zmonster.me/atom.xml
-http://cxymrzero.github.io/atom.xml
-https://xsky.me/feed
-http://www.nutllwhy.com/?feed=rss2
-https://chriszheng.science/atom.xml
-https://zilongshanren.com/atom.xml
-http://kelvinh.github.io/rss.xml
-https://www.bilimoe.com/rss/
-https://login926.xyz/feed
-https://www.sfantree.com/atom.xml
-https://ehlxr.me/atom.xml
-https://mritd.me/feed.xml
-https://yuzhouwan.com/atom.xml
-http://www.nomango.cn/atom.xml
-https://www.wucb.top/atom.xml
-http://linyy.name/?feed=rss2
-http://emuia.com/feed
-https://macplay.github.io/rss.xml
+000 http://www.zmonster.me/atom.xml
+000 http://cxymrzero.github.io/atom.xml
+000 https://xsky.me/feed
+000 http://www.nutllwhy.com/?feed=rss2
+000 https://chriszheng.science/atom.xml
+000 https://zilongshanren.com/atom.xml
+000 http://kelvinh.github.io/rss.xml
+000 https://www.bilimoe.com/rss/
+001 https://login926.xyz/feed
+000 https://www.sfantree.com/atom.xml
+000 https://ehlxr.me/atom.xml
+003 https://mritd.me/feed.xml
+000 https://yuzhouwan.com/atom.xml
+000 http://www.nomango.cn/atom.xml
+000 https://www.wucb.top/atom.xml
+003 http://linyy.name/?feed=rss2
+000 http://emuia.com/feed
+000 https://macplay.github.io/rss.xml
+001 http://panweizeng.com/atom.xml
+000 http://gaomf.cn/atom.xml
+000 http://zhangxiaoyang.me/rss.xml
+http://beej.us/blog/rss.xml
