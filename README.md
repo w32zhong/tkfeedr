@@ -1,4 +1,3 @@
-*tkfeedr*
 ![feed](https://raw.githubusercontent.com/t-k-/tkfeedr/master/img/feed.png)
 
 # About
@@ -15,6 +14,7 @@ sudo pip install feedparser
 ```
 
 Some screenshots:
+
 ![fetching](https://raw.githubusercontent.com/t-k-/tkfeedr/master/img/screenshot0.png)
 
 ![reading](https://raw.githubusercontent.com/t-k-/tkfeedr/master/img/screenshot1.png)
@@ -24,5 +24,5 @@ Some screenshots:
 # Notice 
 + You can use the included `opml2feedlist.sh` script to convert an **import.opml** file to a **.list** file.
 
-# Notice 
+# License 
 MIT
